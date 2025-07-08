@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "John",
+        "Reg No": "REG-2000-1234",
+        "Age": 23,
+        "Email": "john@gmail.com",
+        "Phone": "1234567890",
+        "Course": "BCA"
+    }
+]
