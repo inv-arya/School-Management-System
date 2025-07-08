@@ -4,7 +4,7 @@ import re
 
 
 DATA_FILE = "data/students.json"
-COURSES = ["BCA", "BBA", "B.Tech", "MBA", "MCA"]
+COURSES = ["BCA", "BBA", "B.Tech", "MBA", "MCA","BSW"]
 
 
 def ensure_data_file():
